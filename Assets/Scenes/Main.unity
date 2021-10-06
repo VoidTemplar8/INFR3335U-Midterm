@@ -1360,7 +1360,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 7872914928149712408, guid: d85481eee3f7cb842ab65f2ed173583d, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: d85481eee3f7cb842ab65f2ed173583d, type: 3}
 --- !u!4 &259719314 stripped
 Transform:
@@ -1663,7 +1664,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 2.250918, y: 1}
+    m_SensorSize: {x: 1.8898406, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -2110,7 +2111,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 2.250918, y: 1}
+    m_SensorSize: {x: 1.8898406, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -6240,7 +6241,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 7872914928149712408, guid: d85481eee3f7cb842ab65f2ed173583d, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: d85481eee3f7cb842ab65f2ed173583d, type: 3}
 --- !u!4 &1000716320 stripped
 Transform:
@@ -8365,7 +8367,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 7872914928149712408, guid: d85481eee3f7cb842ab65f2ed173583d, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: d85481eee3f7cb842ab65f2ed173583d, type: 3}
 --- !u!4 &1473241991 stripped
 Transform:
@@ -8623,7 +8626,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 7872914928149712408, guid: d85481eee3f7cb842ab65f2ed173583d, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: d85481eee3f7cb842ab65f2ed173583d, type: 3}
 --- !u!4 &1495248113 stripped
 Transform:
@@ -9038,7 +9042,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 2.250918, y: 1}
+    m_SensorSize: {x: 1.8898406, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -9563,7 +9567,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 7872914928149712408, guid: d85481eee3f7cb842ab65f2ed173583d, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: d85481eee3f7cb842ab65f2ed173583d, type: 3}
 --- !u!4 &1713708371 stripped
 Transform:
@@ -10123,7 +10128,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -346, y: 207}
+  m_AnchoredPosition: {x: -73, y: 181}
   m_SizeDelta: {x: 394.151, y: 60.9285}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1834683496
@@ -11279,7 +11284,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 2.250918, y: 1}
+    m_SensorSize: {x: 1.8898406, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -11980,7 +11985,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 7872914928149712408, guid: d85481eee3f7cb842ab65f2ed173583d, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: d85481eee3f7cb842ab65f2ed173583d, type: 3}
 --- !u!4 &2145485953 stripped
 Transform:
