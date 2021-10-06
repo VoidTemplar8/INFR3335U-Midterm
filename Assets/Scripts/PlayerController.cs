@@ -11,13 +11,18 @@ public class PlayerController : MonoBehaviour
 
     private void Start()
     {
-      //  controller = gameObject.AddComponent<CharacterController>();
+        controller = gameObject.AddComponent<CharacterController>();
     }
 
     void Update()
     {
-        direction = new Vector3(Input.GetAxis("Horizontal"), 0.0f, Input.GetAxis("Vertical"));
+        Vector3 direction = new Vector3(Input.GetAxis("Horizontal"), 0.0f, Input.GetAxis("Vertical"));
         direction *= playerSpeed;
+
+        if (direction != Vector3.zero)
+        {
+             transform.rotation = Quaternion.Slerp(transform.rotation, Quaternion.LookRotation(direction), 0.20f);
+        }
 
         direction.y = gravity * Time.deltaTime;
 
