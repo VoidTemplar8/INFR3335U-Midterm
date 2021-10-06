@@ -11,12 +11,6 @@ public class Coin : MonoBehaviour
         counter = GameObject.Find("Canvas").GetComponent<CoinCounter>();
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
     private void OnTriggerEnter(Collider other)
     {
         counter.coins++;
